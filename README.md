@@ -1,6 +1,6 @@
-- 👋 Oi, Eu sou o PATRICKAO (@patrickaso)!;
+- 👋 Oi, Eu sou o PATRICKAO (@patrickao21)!;
 - 👀 Eu estou interessado em assuntos que envolvem IoT, Desenvolvimento de Sistemas e Segurança da Informação;
-- 🌱 Atualmente, eu estou na faculdade de Sistemas da Informação, cursando paralelamente curso de Introdução em Java Script;
+- 🌱 Atualmente, eu estou na faculdade de Sistemas da Informação, cursando paralelamente curso de Linguagem C - II ;
 - 💞️ Irei usar o GitHub como arquivamento de repositório de projetos e ideias criadas/desenvolvidas durante o curso!!
 - 📫 Entre em contato comigo a partir do Instagram: @patrickao21 
 
