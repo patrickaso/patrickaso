@@ -1,7 +1,7 @@
 - 👋 Oi, Eu sou o PATRICKAO (@patrickao21)!;
-- 👀 Eu estou interessado em assuntos que envolvem IoT, Desenvolvimento de Sistemas e Segurança da Informação;
-- 🌱 Atualmente, eu estou na faculdade de Sistemas da Informação, cursando paralelamente curso de Linguagem C - II ;
-- 💞️ Irei usar o GitHub como arquivamento de repositório de projetos e ideias criadas/desenvolvidas durante o curso!!
+- 👀 Me interesso em assuntos que envolvem Programação, Sistemas da Informação e Segurança da Informação;
+- 🌱 Atualmente, eu estou na faculdade de Sistemas da Informação;
+- 💞️ Irei usar o GitHub como arquivamento de repositório de projetos, exercicios em sala e ideias criadas/desenvolvidas durante o curso!!
 - 📫 Entre em contato comigo a partir do email: ptckanderson@gmail.com
 
 <!---
